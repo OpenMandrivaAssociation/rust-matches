@@ -5,8 +5,8 @@
 %global crate matches
 
 Name:           rust-%{crate}
-Version:        0.1.8
-Release:        7%{?dist}
+Version:        0.1.10
+Release:        1%{?dist}
 Summary:        Macro to evaluate, as a boolean, whether an expression matches a pattern
 
 # Upstream license specification: MIT
